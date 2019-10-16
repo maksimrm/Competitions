@@ -1,0 +1,3 @@
+/Users/maxim/Documents/Чемпионат по программированию/Восстанови длинну карусели/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maxim/Documents/Чемпионат по программированию/Восстанови длинну карусели/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maxim/Documents/Чемпионат по программированию/Восстанови длинну карусели/cmake-build-debug/CMakeFiles/__.dir
